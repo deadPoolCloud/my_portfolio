@@ -1,4 +1,4 @@
-1. Skills
+1. Skills 
 Manual Testing
 
 Experience: 1.5 years of manual testing, focusing on functional, regression, and UI testing. Worked extensively on real-time applications like Meeting500mg, Chat500mg, and Borrower Portal.
